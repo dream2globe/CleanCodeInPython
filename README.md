@@ -25,3 +25,11 @@
 ### 3주차 : 진행자 최현상님, 정민정님
 + Clean Code in Python 3장 리뷰, 4장
 + Effective Python 1장
+
+### 4주차 : 진행자 이영수님, 윤동희님 
++ Clean Code in Python 5장
++ Effective Python 2장
+
+### 5주차 : 진행자 정민정님, 이다솜님 (without 퍼실)
++ Clean Code in Python 6장
++ Effective Python 3장
