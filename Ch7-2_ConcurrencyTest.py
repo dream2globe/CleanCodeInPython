@@ -2,9 +2,6 @@ import time
 import functools
 
 import asyncio
-import nest_asyncio
-
-nest_asyncio.apply()  # This module patches asyncio to allow nested (due to jupyter notebook)
 from aiofile import AIOFile, Reader, Writer
 
 import json
@@ -66,4 +63,3 @@ if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(asyncio.gather(*main()))
 #     loop.close()
-
